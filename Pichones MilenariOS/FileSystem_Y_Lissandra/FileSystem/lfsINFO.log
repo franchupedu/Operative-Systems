@@ -1,0 +1,146 @@
+[INFO] 01:22:34:630 LFS/(26124:26124): punto de montaje: /home/utnso/Escritorio/
+
+[INFO] 01:22:34:630 LFS/(26124:26124): Creando directorio en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:22:34:631 LFS/(26124:26124): Creando carpeta en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:22:34:631 LFS/(26124:26124): Carpeta creada en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:22:34:631 LFS/(26124:26124): Directorio creado en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:22:34:631 LFS/(26124:26124): Creando directorio en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:22:34:631 LFS/(26124:26124): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:22:34:631 LFS/(26124:26124): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:22:34:631 LFS/(26124:26124): Directorio creado en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:22:34:631 LFS/(26124:26124): Creando directorio en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:22:34:631 LFS/(26124:26124): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:22:34:631 LFS/(26124:26124): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:22:34:632 LFS/(26124:26124): Directorio creado en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:22:34:632 LFS/(26124:26124): Creando directorio en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:22:34:632 LFS/(26124:26124): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:22:34:632 LFS/(26124:26124): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:22:34:632 LFS/(26124:26124): Directorio creado en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:22:34:632 LFS/(26124:26124): Directorio del archivo metadata de Bloques : /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:22:34:632 LFS/(26124:26124): Archivo de configuración de los bloques creado en: /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:24:39:1 LFS/(26198:26198): punto de montaje: /home/utnso/Escritorio/
+
+[INFO] 01:24:40:4 LFS/(26198:26198): Creando directorio en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:24:40:4 LFS/(26198:26198): Creando carpeta en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:24:40:4 LFS/(26198:26198): Carpeta creada en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:24:40:4 LFS/(26198:26198): Directorio creado en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:24:40:4 LFS/(26198:26198): Creando directorio en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:24:40:5 LFS/(26198:26198): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:24:40:5 LFS/(26198:26198): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Directorio creado en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Creando directorio en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:24:40:5 LFS/(26198:26198): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:24:40:5 LFS/(26198:26198): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Directorio creado en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Creando directorio en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:24:40:5 LFS/(26198:26198): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:24:40:5 LFS/(26198:26198): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Directorio creado en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Directorio del archivo metadata de Bloques : /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:24:40:5 LFS/(26198:26198): Archivo de configuración de los bloques creado en: /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:29:34:831 LFS/(26362:26362): punto de montaje: /home/utnso/Escritorio/
+
+[INFO] 01:29:34:834 LFS/(26362:26362): Creando directorio en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:29:34:834 LFS/(26362:26362): Creando carpeta en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:29:34:835 LFS/(26362:26362): Carpeta creada en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Directorio creado en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Creando directorio en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:29:34:835 LFS/(26362:26362): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:29:34:835 LFS/(26362:26362): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Directorio creado en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Creando directorio en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:29:34:835 LFS/(26362:26362): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:29:34:835 LFS/(26362:26362): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Directorio creado en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Creando directorio en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:29:34:835 LFS/(26362:26362): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:29:34:835 LFS/(26362:26362): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:29:34:835 LFS/(26362:26362): Directorio creado en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:29:34:836 LFS/(26362:26362): Directorio del archivo metadata de Bloques : /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:44:46:706 LFS/(26820:26820): punto de montaje: /home/utnso/Escritorio/
+
+[INFO] 01:44:46:706 LFS/(26820:26820): Creando directorio en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:44:46:706 LFS/(26820:26820): Creando carpeta en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:44:46:707 LFS/(26820:26820): Carpeta creada en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:44:46:707 LFS/(26820:26820): Directorio creado en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:44:46:707 LFS/(26820:26820): Creando directorio en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:44:46:707 LFS/(26820:26820): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:44:46:707 LFS/(26820:26820): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:44:46:707 LFS/(26820:26820): Directorio creado en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:44:46:707 LFS/(26820:26820): Creando directorio en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:44:46:707 LFS/(26820:26820): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:44:46:707 LFS/(26820:26820): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:44:46:708 LFS/(26820:26820): Directorio creado en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:44:46:708 LFS/(26820:26820): Creando directorio en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:44:46:708 LFS/(26820:26820): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:44:46:708 LFS/(26820:26820): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:44:46:708 LFS/(26820:26820): Directorio creado en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:44:46:708 LFS/(26820:26820): Directorio del archivo metadata de Bloques : /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:50:13:32 LFS/(26996:26996): punto de montaje: /home/utnso/Escritorio/
+
+[INFO] 01:50:13:35 LFS/(26996:26996): Creando directorio en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:50:13:35 LFS/(26996:26996): Creando carpeta en: /home/utnso/Escritorio/FileSystem/
+[INFO] 01:50:13:35 LFS/(26996:26996): Carpeta creada en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Directorio creado en: /home/utnso/Escritorio/FileSystem/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Creando directorio en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:50:13:36 LFS/(26996:26996): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Tablas/
+[INFO] 01:50:13:36 LFS/(26996:26996): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Directorio creado en: /home/utnso/Escritorio/FileSystem/Tablas/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Creando directorio en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:50:13:36 LFS/(26996:26996): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Metadata/
+[INFO] 01:50:13:36 LFS/(26996:26996): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Directorio creado en: /home/utnso/Escritorio/FileSystem/Metadata/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Creando directorio en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:50:13:36 LFS/(26996:26996): Creando carpeta en: /home/utnso/Escritorio/FileSystem/Bloques/
+[INFO] 01:50:13:36 LFS/(26996:26996): Carpeta creada en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Directorio creado en: /home/utnso/Escritorio/FileSystem/Bloques/
+
+[INFO] 01:50:13:36 LFS/(26996:26996): Directorio del archivo metadata de Bloques : /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+
+[INFO] 01:50:13:37 LFS/(26996:26996): Archivo de configuración de los bloques creado en: /home/utnso/Escritorio/FileSystem/Metadata/metadata.bin
+

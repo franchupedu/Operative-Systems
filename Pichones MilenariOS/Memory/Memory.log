@@ -1,0 +1,385 @@
+[INFO] 12:24:00:773 Memory/(16774:16774): Log creado
+
+[INFO] 12:24:00:773 Memory/(16774:16774): Config recibido
+
+[INFO] 12:24:00:773 Memory/(16774:16774): Puerto de memoria para conexion: 8080 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): IP File System para conexion: 127.0.0.1 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): Puerto File System para conexion: 4444 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 12:24:00:773 Memory/(16774:16774): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 12:24:00:774 Memory/(16774:16774): Retardo de memoria: 600 
+
+[INFO] 12:24:00:774 Memory/(16774:16774): Retardo de File System: 600 
+
+[INFO] 12:24:00:774 Memory/(16774:16774): Tamanio de la memoria: 4096 
+
+[INFO] 12:24:00:774 Memory/(16774:16774): Retardo de Journal: 70000 
+
+[INFO] 12:24:00:774 Memory/(16774:16774): Retardo de Gossiping: 30000 
+
+[INFO] 12:24:00:774 Memory/(16774:16774): Numero de memoria: 1 
+
+[INFO] 12:24:02:522 Memory/(16774:16775): Se conecto un cliente!
+[INFO] 12:24:02:523 Memory/(16774:16775): cod pre «
+[INFO] 12:24:06:167 Memory/(16774:16775): codigo operacion: -1 
+
+[WARNING] 12:24:06:168 Memory/(16774:16775): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:24:18:996 Memory/(16802:16802): Log creado
+
+[INFO] 12:24:18:996 Memory/(16802:16802): Config recibido
+
+[INFO] 12:24:18:996 Memory/(16802:16802): Puerto de memoria para conexion: 8080 
+
+[INFO] 12:24:18:996 Memory/(16802:16802): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): IP File System para conexion: 127.0.0.1 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Puerto File System para conexion: 4444 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Retardo de memoria: 600 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Retardo de File System: 600 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Tamanio de la memoria: 4096 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Retardo de Journal: 70000 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Retardo de Gossiping: 30000 
+
+[INFO] 12:24:18:997 Memory/(16802:16802): Numero de memoria: 1 
+
+[INFO] 12:24:21:432 Memory/(16802:16803): Se conecto un cliente!
+[INFO] 12:24:21:433 Memory/(16802:16803): cod pre «
+[INFO] 12:24:26:542 Memory/(16802:16803): cod post -1219359738
+[INFO] 12:24:26:542 Memory/(16802:16803): codigo operacion: -1219359738 
+
+[WARNING] 12:24:26:542 Memory/(16802:16803): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:24:31:542 Memory/(16802:16803): cod pre «
+[INFO] 12:24:31:543 Memory/(16802:16803): cod post -1219359733
+[INFO] 12:24:31:543 Memory/(16802:16803): codigo operacion: -1219359733 
+
+[WARNING] 12:24:31:543 Memory/(16802:16803): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:24:36:543 Memory/(16802:16803): cod pre «
+[INFO] 12:24:36:543 Memory/(16802:16803): cod post -1219359704
+[INFO] 12:24:36:543 Memory/(16802:16803): codigo operacion: -1219359704 
+
+[WARNING] 12:24:36:543 Memory/(16802:16803): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:24:43:376 Memory/(16814:16814): Log creado
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Config recibido
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Puerto de memoria para conexion: 8080 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): IP File System para conexion: 127.0.0.1 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Puerto File System para conexion: 4444 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Retardo de memoria: 600 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Retardo de File System: 600 
+
+[INFO] 12:24:43:377 Memory/(16814:16814): Tamanio de la memoria: 4096 
+
+[INFO] 12:24:43:378 Memory/(16814:16814): Retardo de Journal: 70000 
+
+[INFO] 12:24:43:378 Memory/(16814:16814): Retardo de Gossiping: 30000 
+
+[INFO] 12:24:43:378 Memory/(16814:16814): Numero de memoria: 1 
+
+[INFO] 12:24:49:213 Memory/(16814:16815): Se conecto un cliente!
+[INFO] 12:24:49:213 Memory/(16814:16815): cod pre «
+[INFO] 12:24:52:12 Memory/(16814:16815): cod post -1218597834
+[INFO] 12:24:52:13 Memory/(16814:16815): codigo operacion: -1218597834 
+
+[WARNING] 12:24:52:13 Memory/(16814:16815): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:24:59:500 Memory/(16832:16832): Log creado
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Config recibido
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Puerto de memoria para conexion: 8080 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): IP File System para conexion: 127.0.0.1 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Puerto File System para conexion: 4444 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Retardo de memoria: 600 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Retardo de File System: 600 
+
+[INFO] 12:24:59:501 Memory/(16832:16832): Tamanio de la memoria: 4096 
+
+[INFO] 12:24:59:502 Memory/(16832:16832): Retardo de Journal: 70000 
+
+[INFO] 12:24:59:502 Memory/(16832:16832): Retardo de Gossiping: 30000 
+
+[INFO] 12:24:59:502 Memory/(16832:16832): Numero de memoria: 1 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): Log creado
+
+[INFO] 12:40:26:839 Memory/(17353:17353): Config recibido
+
+[INFO] 12:40:26:839 Memory/(17353:17353): Puerto de memoria para conexion: 8080 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): IP File System para conexion: 127.0.0.1 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): Puerto File System para conexion: 4444 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 12:40:26:839 Memory/(17353:17353): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 12:40:26:840 Memory/(17353:17353): Retardo de memoria: 600 
+
+[INFO] 12:40:26:840 Memory/(17353:17353): Retardo de File System: 600 
+
+[INFO] 12:40:26:840 Memory/(17353:17353): Tamanio de la memoria: 4096 
+
+[INFO] 12:40:26:840 Memory/(17353:17353): Retardo de Journal: 70000 
+
+[INFO] 12:40:26:840 Memory/(17353:17353): Retardo de Gossiping: 30000 
+
+[INFO] 12:40:26:840 Memory/(17353:17353): Numero de memoria: 1 
+
+[INFO] 12:40:41:843 Memory/(17353:17354): Se conecto un cliente!
+[INFO] 12:40:41:843 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:916 Memory/(17353:17354): cod post -202
+[INFO] 12:40:46:916 Memory/(17353:17354): codigo operacion: -202 
+
+[WARNING] 12:40:46:916 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:916 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:916 Memory/(17353:17354): cod post -245
+[INFO] 12:40:46:916 Memory/(17353:17354): codigo operacion: -245 
+
+[WARNING] 12:40:46:916 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:916 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:916 Memory/(17353:17354): cod post -216
+[INFO] 12:40:46:916 Memory/(17353:17354): codigo operacion: -216 
+
+[WARNING] 12:40:46:916 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:916 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:916 Memory/(17353:17354): cod post -120
+[INFO] 12:40:46:916 Memory/(17353:17354): codigo operacion: -120 
+
+[WARNING] 12:40:46:916 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:916 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -236
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -236 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -248
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -248 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -250
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -250 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -141
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -141 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -155
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -155 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -148
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -148 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -155
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -155 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:917 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:917 Memory/(17353:17354): cod post -157
+[INFO] 12:40:46:917 Memory/(17353:17354): codigo operacion: -157 
+
+[WARNING] 12:40:46:917 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:918 Memory/(17353:17354): cod pre -1
+[INFO] 12:40:46:918 Memory/(17353:17354): cod post -140
+[INFO] 12:40:46:918 Memory/(17353:17354): codigo operacion: -140 
+
+[WARNING] 12:40:46:918 Memory/(17353:17354): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 12:40:46:918 Memory/(17353:17354): cod pre -1
+[INFO] 13:04:58:816 Memory/(17810:17810): Log creado
+
+[INFO] 13:04:58:816 Memory/(17810:17810): Config recibido
+
+[INFO] 13:04:58:816 Memory/(17810:17810): Puerto de memoria para conexion: 8080 
+
+[INFO] 13:04:58:816 Memory/(17810:17810): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 13:04:58:816 Memory/(17810:17810): IP File System para conexion: 127.0.0.1 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Puerto File System para conexion: 4444 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Retardo de memoria: 600 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Retardo de File System: 600 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Tamanio de la memoria: 4096 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Retardo de Journal: 70000 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Retardo de Gossiping: 30000 
+
+[INFO] 13:04:58:817 Memory/(17810:17810): Numero de memoria: 1 
+
+[INFO] 13:05:36:320 Memory/(17815:17815): Log creado
+
+[INFO] 13:05:36:320 Memory/(17815:17815): Config recibido
+
+[INFO] 13:05:36:320 Memory/(17815:17815): Puerto de memoria para conexion: 8080 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): IP Memoria para conexion: 127.0.0.1 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): IP File System para conexion: 127.0.0.1 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Puerto File System para conexion: 4444 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): IP de la seed 0 es: 127.0.0.1 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): IP de la seed 1 es: 127.0.0.1 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Puestos de la seed 0 de memoria: 8080 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Puestos de la seed 1 de memoria: 8081 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Retardo de memoria: 600 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Retardo de File System: 600 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Tamanio de la memoria: 4096 
+
+[INFO] 13:05:36:321 Memory/(17815:17815): Retardo de Journal: 70000 
+
+[INFO] 13:05:36:322 Memory/(17815:17815): Retardo de Gossiping: 30000 
+
+[INFO] 13:05:36:322 Memory/(17815:17815): Numero de memoria: 1 
+
+[INFO] 13:05:46:284 Memory/(17815:17816): Se conecto un cliente!
+[INFO] 13:05:46:284 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:396 Memory/(17815:17816): cod post -202
+[INFO] 13:05:51:396 Memory/(17815:17816): codigo operacion: -202 
+
+[WARNING] 13:05:51:396 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -245
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -245 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -216
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -216 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -56
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -56 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -7
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -7 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -247
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -247 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -250
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -250 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -141
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -141 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -155
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -155 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:397 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:397 Memory/(17815:17816): cod post -148
+[INFO] 13:05:51:397 Memory/(17815:17816): codigo operacion: -148 
+
+[WARNING] 13:05:51:397 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:398 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:398 Memory/(17815:17816): cod post -155
+[INFO] 13:05:51:398 Memory/(17815:17816): codigo operacion: -155 
+
+[WARNING] 13:05:51:398 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:398 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:398 Memory/(17815:17816): cod post -157
+[INFO] 13:05:51:398 Memory/(17815:17816): codigo operacion: -157 
+
+[WARNING] 13:05:51:398 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:398 Memory/(17815:17816): cod pre -1
+[INFO] 13:05:51:398 Memory/(17815:17816): cod post -140
+[INFO] 13:05:51:398 Memory/(17815:17816): codigo operacion: -140 
+
+[WARNING] 13:05:51:398 Memory/(17815:17816): No es ninguno de los codigos que me dijiste, ojo vieja. Proba de nuevo
+[INFO] 13:05:51:398 Memory/(17815:17816): cod pre -1

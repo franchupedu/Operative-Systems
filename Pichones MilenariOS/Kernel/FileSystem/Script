@@ -1,0 +1,9 @@
+add memory 5 to sc
+create tabla1 sc 1 10000
+insert tabla1 0 "LISSANDRA" 123456
+select tabla1 0
+journal
+describe
+describe tabla1
+drop tabla1
+metrics
